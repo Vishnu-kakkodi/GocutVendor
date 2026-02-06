@@ -4,5 +4,5 @@
 // String IMAGE_BASE_URL = "https://api.gocut.in/";
 
 
-String BASE_URL = "http://31.97.206.144:1024/v1/api";
-String IMAGE_BASE_URL = "http://31.97.206.144:1024/";
+String BASE_URL = "https://api.gocut.co.in/v1/api";
+String IMAGE_BASE_URL = "https://api.gocut.co.in/";
