@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "49369084718",
+    "project_id": "go-cut-vendor-cbbdb",
+    "storage_bucket": "go-cut-vendor-cbbdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49369084718:android:21eaa5a034aef2e2ba80bf",
+        "android_client_info": {
+          "package_name": "com.digitalraiz.govendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49369084718-v1mcr2nul0llo3c52sbitog3euovbj0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalraiz.govendor",
+            "certificate_hash": "d8fe1b0cc741deddc65c679326af3015bc19e225"
+          }
+        },
+        {
+          "client_id": "49369084718-9k691msqo2pp2s9e6k4q7n1fbns3tud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQ7V7r0M9YgCT3qrJFz24J7cEFdWuo44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49369084718-9k691msqo2pp2s9e6k4q7n1fbns3tud3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49369084718-3dgkm4as78c7qqrl68vhp883pp80qmpc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalraiz.gocutVendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
