@@ -3,6 +3,8 @@
 // String BASE_URL = "http://193.203.160.181:1024/v1";
 // String BASE_URLsss = "https://api.gocut.in/v1";
 String BASE_URLsss = "https://api.gocut.co.in/v1";
+String  llll "https://api.gocut.co.in/v1";
+
 
 
 //=====================Send OTP===================//
